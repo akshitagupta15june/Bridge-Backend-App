@@ -47,7 +47,7 @@ We also added an area that connects to a database where people can donate menstr
 
 **Bridge Backend** 
 
-Website: [Bridge](https://akshitagupta15june.github.io/Bridge-Backend/)
+Website: [Bridge](https://akshitagupta15june.github.io/Bridge-Backend-App/)
 
 Code: [BridgeCode](https://github.com/akshitagupta15june/Bridge-Backend-App)
 
