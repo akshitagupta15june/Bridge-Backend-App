@@ -49,7 +49,7 @@ We also added an area that connects to a database where people can donate menstr
 
 Website: [Bridge](https://akshitagupta15june.github.io/Bridge-Backend/)
 
-Code: [BridgeCode](https://github.com/akshitagupta15june/Bridge-Backend)
+Code: [BridgeCode](https://github.com/akshitagupta15june/Bridge-Backend-App)
 
 ➡️ HTML, CSS, JavaScript, Bootstrap and Canva
 
